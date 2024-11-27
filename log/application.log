@@ -174,3 +174,191 @@
 2024-11-26 23:06:45,995 [main] INFO OpenCart - *** Providing login details ***
 2024-11-26 23:06:46,512 [main] INFO OpenCart - *** Login passed ***
 2024-11-26 23:06:46,523 [main] INFO OpenCart - *** Login started ***
+2024-11-27 14:06:59,173 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 14:07:09,905 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 14:07:24,567 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 14:07:26,411 [main] INFO OpenCart - *** Login started ***
+2024-11-27 14:07:45,654 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 14:07:45,656 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 14:07:51,806 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 14:23:15,080 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 14:24:02,244 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 14:25:17,750 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 14:25:26,507 [main] INFO OpenCart - *** Login started ***
+2024-11-27 14:26:23,002 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 14:26:23,003 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 15:09:36,420 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 15:10:03,196 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 15:10:27,731 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 15:10:30,140 [main] INFO OpenCart - *** Login started ***
+2024-11-27 15:11:18,288 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 15:11:18,289 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 15:11:20,822 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 15:26:36,590 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 15:26:57,527 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 15:27:15,306 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 15:27:16,086 [main] INFO OpenCart - *** Login started ***
+2024-11-27 15:27:45,409 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 15:27:45,417 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 15:37:35,059 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 15:38:01,007 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 15:38:25,729 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 15:38:29,031 [main] INFO OpenCart - *** Login started ***
+2024-11-27 15:39:10,928 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 15:39:10,929 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 15:49:40,937 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 15:50:50,465 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 15:51:07,509 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 15:51:08,980 [main] INFO OpenCart - *** Login started ***
+2024-11-27 15:51:30,993 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 15:51:31,017 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 15:54:16,999 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 15:54:32,297 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 15:54:44,270 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 15:54:47,575 [main] INFO OpenCart - *** Login started ***
+2024-11-27 15:55:08,474 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 15:55:08,475 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 16:00:07,190 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 16:00:28,460 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 16:00:39,279 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 16:00:40,539 [main] INFO OpenCart - *** Login started ***
+2024-11-27 16:01:12,056 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 16:01:12,057 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 16:06:30,651 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 16:07:57,039 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 16:08:40,687 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 16:08:41,878 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 16:09:05,009 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 16:09:05,904 [main] INFO OpenCart - *** Login started ***
+2024-11-27 16:09:27,691 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 16:09:27,693 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 16:19:04,255 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 16:19:04,985 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 16:19:12,948 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 16:19:16,320 [main] INFO OpenCart - *** Login started ***
+2024-11-27 16:19:43,602 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 16:19:43,604 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 16:26:02,554 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 16:28:31,784 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 16:29:43,702 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 16:29:45,048 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 16:30:10,367 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 16:30:15,540 [main] INFO OpenCart - *** Login started ***
+2024-11-27 16:30:40,844 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 16:30:40,844 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 16:30:47,639 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 16:48:02,586 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 16:48:03,475 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 16:48:19,992 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 16:48:23,527 [main] INFO OpenCart - *** Login started ***
+2024-11-27 16:48:52,191 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 16:48:52,194 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 17:03:19,289 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 17:03:19,755 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 17:03:29,748 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 17:03:30,882 [main] INFO OpenCart - *** Login started ***
+2024-11-27 17:03:53,492 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 17:03:53,492 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 21:28:25,092 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 21:28:25,815 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 21:28:47,879 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 21:28:49,131 [main] INFO OpenCart - *** Login started ***
+2024-11-27 21:29:13,810 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 21:29:13,810 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 21:30:19,258 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 21:30:21,237 [main] INFO OpenCart - *** Browser closed ***
+2024-11-27 21:39:21,857 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 21:39:23,040 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 21:39:34,686 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 21:39:35,937 [main] INFO OpenCart - *** Login started ***
+2024-11-27 21:39:58,257 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 21:39:58,258 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 21:45:21,126 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 21:45:22,870 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 21:45:33,792 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 21:45:34,784 [main] INFO OpenCart - *** Login started ***
+2024-11-27 21:45:59,747 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 21:45:59,762 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 21:51:40,003 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 21:51:40,501 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 21:51:47,156 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 21:51:48,311 [main] INFO OpenCart - *** Login started ***
+2024-11-27 21:52:06,332 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 21:52:06,332 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:00:35,218 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:02:12,446 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:02:55,478 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:03:05,668 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:03:17,740 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 22:03:20,749 [main] INFO OpenCart - *** Login started ***
+2024-11-27 22:03:36,834 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 22:03:36,835 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:04:38,880 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 22:04:40,197 [main] INFO OpenCart - *** Browser closed ***
+2024-11-27 22:08:42,418 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:08:42,918 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:08:48,467 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 22:08:49,380 [main] INFO OpenCart - *** Login started ***
+2024-11-27 22:09:04,382 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 22:09:04,384 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:10:02,050 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 22:17:49,419 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:20:26,316 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:21:42,583 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:21:43,150 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:21:53,085 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 22:21:54,203 [main] INFO OpenCart - *** Login started ***
+2024-11-27 22:22:07,512 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 22:22:07,527 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:27:37,524 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:27:38,340 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:28:00,102 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 22:28:03,881 [main] INFO OpenCart - *** Login started ***
+2024-11-27 22:28:19,993 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 22:28:19,999 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:29:18,103 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 22:34:13,679 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:34:14,367 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:34:26,512 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 22:34:27,382 [main] INFO OpenCart - *** Login started ***
+2024-11-27 22:34:41,049 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 22:34:41,050 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:42:49,123 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:42:50,031 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:43:17,459 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 22:43:18,925 [main] INFO OpenCart - *** Login started ***
+2024-11-27 22:43:45,336 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 22:43:45,336 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:50:37,058 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 22:50:42,401 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 22:50:56,480 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 22:50:58,631 [main] INFO OpenCart - *** Login started ***
+2024-11-27 22:51:20,926 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 22:51:20,927 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 22:52:18,422 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 23:00:08,503 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 23:00:09,041 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 23:00:14,745 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 23:00:15,426 [main] INFO OpenCart - *** Login started ***
+2024-11-27 23:00:28,943 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 23:00:28,943 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 23:01:26,656 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 23:01:31,632 [main] INFO OpenCart - *** Browser closed ***
+2024-11-27 23:06:10,498 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 23:06:12,182 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 23:06:22,143 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 23:06:23,788 [main] INFO OpenCart - *** Login started ***
+2024-11-27 23:06:40,444 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 23:06:40,446 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 23:06:45,635 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 23:06:47,788 [main] INFO OpenCart - *** Browser closed ***
+2024-11-27 23:14:00,179 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 23:16:17,019 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 23:17:16,899 [main] INFO OpenCart - *** Launching browser ***
+2024-11-27 23:17:20,886 [main] INFO OpenCart - *** Opening URL ***
+2024-11-27 23:17:41,207 [main] INFO OpenCart - *** Providing login details ***
+2024-11-27 23:17:43,755 [main] INFO OpenCart - *** Login started ***
+2024-11-27 23:18:06,985 [main] INFO OpenCart - *** Adding new customer ***
+2024-11-27 23:18:06,986 [main] INFO OpenCart - *** Providing customer details ***
+2024-11-27 23:18:15,137 [main] INFO OpenCart - *** Saving customer data ***
+2024-11-27 23:18:17,939 [main] INFO OpenCart - *** Browser closed ***

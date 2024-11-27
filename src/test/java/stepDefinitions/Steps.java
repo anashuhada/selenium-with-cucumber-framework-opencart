@@ -8,6 +8,7 @@ import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import pageObjects.AddCustomerAddressPage;
 import pageObjects.AddCustomerPage;
 import pageObjects.LoginPage;
 import pageObjects.SearchCustomerPage;
@@ -42,8 +43,6 @@ public class Steps extends BaseClass {
     @Given("user launches Chrome browser")
     public void user_launches_chrome_browser() {
         System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + ".//Drivers/chromedriver.exe");
-
-        driver = new ChromeDriver();
 
         lp = new LoginPage(driver);
 
@@ -140,6 +139,14 @@ public class Steps extends BaseClass {
 
         acp.clickToggleNewsletter();
         acp.clickToggleSafe();
+
+        acap = new AddCustomerAddressPage(driver);
+        acap.clickTabAddress();
+        acap.clickButtonAddAddress();
+        String address1 = randomString();
+        String city = randomString();
+        acap.setMandatoryFields(firstName, lastName, address1, city);
+
     }
 
     @When("clicks on Save button")

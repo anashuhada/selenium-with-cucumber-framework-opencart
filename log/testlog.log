@@ -174,4 +174,192 @@
  2024-11-26 23:06:45,995 - OpenCart -INFO - *** Providing login details ***-
  2024-11-26 23:06:46,512 - OpenCart -INFO - *** Login passed ***-
  2024-11-26 23:06:46,523 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 14:06:59,173 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 14:07:09,905 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 14:07:24,567 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 14:07:26,411 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 14:07:45,654 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 14:07:45,656 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 14:07:51,806 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 14:23:15,080 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 14:24:02,244 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 14:25:17,750 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 14:25:26,507 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 14:26:23,002 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 14:26:23,003 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 15:09:36,420 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 15:10:03,196 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 15:10:27,731 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 15:10:30,140 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 15:11:18,288 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 15:11:18,289 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 15:11:20,822 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 15:26:36,590 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 15:26:57,527 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 15:27:15,306 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 15:27:16,086 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 15:27:45,409 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 15:27:45,417 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 15:37:35,059 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 15:38:01,007 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 15:38:25,729 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 15:38:29,031 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 15:39:10,928 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 15:39:10,929 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 15:49:40,937 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 15:50:50,465 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 15:51:07,509 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 15:51:08,980 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 15:51:30,993 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 15:51:31,017 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 15:54:16,999 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 15:54:32,297 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 15:54:44,270 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 15:54:47,575 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 15:55:08,474 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 15:55:08,475 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 16:00:07,190 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 16:00:28,460 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 16:00:39,279 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 16:00:40,539 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 16:01:12,056 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 16:01:12,057 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 16:06:30,651 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 16:07:57,039 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 16:08:40,687 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 16:08:41,878 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 16:09:05,009 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 16:09:05,904 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 16:09:27,691 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 16:09:27,693 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 16:19:04,255 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 16:19:04,985 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 16:19:12,948 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 16:19:16,320 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 16:19:43,602 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 16:19:43,604 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 16:26:02,554 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 16:28:31,784 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 16:29:43,702 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 16:29:45,048 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 16:30:10,367 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 16:30:15,540 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 16:30:40,844 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 16:30:40,844 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 16:30:47,639 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 16:48:02,586 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 16:48:03,475 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 16:48:19,992 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 16:48:23,527 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 16:48:52,191 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 16:48:52,194 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 17:03:19,289 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 17:03:19,755 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 17:03:29,748 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 17:03:30,882 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 17:03:53,492 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 17:03:53,492 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 21:28:25,092 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 21:28:25,815 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 21:28:47,879 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 21:28:49,131 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 21:29:13,810 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 21:29:13,810 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 21:30:19,258 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 21:30:21,237 - OpenCart -INFO - *** Browser closed ***-
+ 2024-11-27 21:39:21,857 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 21:39:23,040 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 21:39:34,686 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 21:39:35,937 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 21:39:58,257 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 21:39:58,258 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 21:45:21,126 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 21:45:22,870 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 21:45:33,792 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 21:45:34,784 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 21:45:59,747 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 21:45:59,762 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 21:51:40,003 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 21:51:40,501 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 21:51:47,156 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 21:51:48,311 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 21:52:06,332 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 21:52:06,332 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:00:35,218 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:02:12,446 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:02:55,478 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:03:05,668 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:03:17,740 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 22:03:20,749 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 22:03:36,834 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 22:03:36,835 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:04:38,880 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 22:04:40,197 - OpenCart -INFO - *** Browser closed ***-
+ 2024-11-27 22:08:42,418 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:08:42,918 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:08:48,467 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 22:08:49,380 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 22:09:04,382 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 22:09:04,384 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:10:02,050 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 22:17:49,419 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:20:26,316 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:21:42,583 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:21:43,150 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:21:53,085 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 22:21:54,203 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 22:22:07,512 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 22:22:07,527 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:27:37,524 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:27:38,340 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:28:00,102 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 22:28:03,881 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 22:28:19,993 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 22:28:19,999 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:29:18,103 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 22:34:13,679 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:34:14,367 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:34:26,512 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 22:34:27,382 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 22:34:41,049 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 22:34:41,050 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:42:49,123 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:42:50,031 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:43:17,459 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 22:43:18,925 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 22:43:45,336 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 22:43:45,336 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:50:37,058 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 22:50:42,401 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 22:50:56,480 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 22:50:58,631 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 22:51:20,926 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 22:51:20,927 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 22:52:18,422 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 23:00:08,503 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 23:00:09,041 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 23:00:14,745 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 23:00:15,426 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 23:00:28,943 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 23:00:28,943 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 23:01:26,656 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 23:01:31,632 - OpenCart -INFO - *** Browser closed ***-
+ 2024-11-27 23:06:10,498 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 23:06:12,182 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 23:06:22,143 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 23:06:23,788 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 23:06:40,444 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 23:06:40,446 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 23:06:45,635 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 23:06:47,788 - OpenCart -INFO - *** Browser closed ***-
+ 2024-11-27 23:14:00,179 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 23:16:17,019 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 23:17:16,899 - OpenCart -INFO - *** Launching browser ***-
+ 2024-11-27 23:17:20,886 - OpenCart -INFO - *** Opening URL ***-
+ 2024-11-27 23:17:41,207 - OpenCart -INFO - *** Providing login details ***-
+ 2024-11-27 23:17:43,755 - OpenCart -INFO - *** Login started ***-
+ 2024-11-27 23:18:06,985 - OpenCart -INFO - *** Adding new customer ***-
+ 2024-11-27 23:18:06,986 - OpenCart -INFO - *** Providing customer details ***-
+ 2024-11-27 23:18:15,137 - OpenCart -INFO - *** Saving customer data ***-
+ 2024-11-27 23:18:17,939 - OpenCart -INFO - *** Browser closed ***-
  
