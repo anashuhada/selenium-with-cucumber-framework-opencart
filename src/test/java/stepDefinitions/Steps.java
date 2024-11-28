@@ -146,7 +146,6 @@ public class Steps extends BaseClass {
         String address1 = randomString();
         String city = randomString();
         acap.setMandatoryFields(firstName, lastName, address1, city);
-
     }
 
     @When("clicks on Save button")
@@ -170,7 +169,7 @@ public class Steps extends BaseClass {
     public void enters_customer_email() {
         logger.info("*** Searching customer by email ***");
         scp = new SearchCustomerPage(driver);
-        scp.setEmail("sarah.smith@example.com");
+        scp.setEmail("cavZx.cCVPT@example.com");
     }
 
     @When("clicks on filter button")
@@ -180,8 +179,14 @@ public class Steps extends BaseClass {
 
     @Then("user should find the email in the search table")
     public void user_should_find_the_email_in_the_search_table() {
-        boolean status = scp.searchCustomerByEmail("sarah.smith@example.com");
+        boolean status = scp.searchCustomerByEmail("cavZx.cCVPT@example.com");
         Assert.assertEquals(true, status);
+
+        String phone = randomNumeric();
+        acp.setTelephone(phone);
+        System.out.println(phone);
+
+        acp.clickButtonSave();
     }
 
     // step definitions for searching customer using name
@@ -189,12 +194,12 @@ public class Steps extends BaseClass {
     public void enters_customer_name() {
         logger.info("*** Searching customer by name ***");
         scp = new SearchCustomerPage(driver);
-        scp.setName("Sarah Smith");
+        scp.setName("BqvKL RcqqI");
     }
 
     @Then("user should find the name in the search table")
     public void user_should_find_the_name_in_the_search_table() {
-        boolean status = scp.searchCustomerByName("Sarah Smith");
+        boolean status = scp.searchCustomerByName("BqvKL RcqqI");
         Assert.assertEquals(true, status);
     }
 

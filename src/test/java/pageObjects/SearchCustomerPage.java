@@ -1,9 +1,6 @@
 package pageObjects;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.StaleElementReferenceException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utilities.WaitHelper;
@@ -67,15 +64,29 @@ public class SearchCustomerPage {
 
         for(int i = 1; i <= getNoOfRows(); i++) {
             try {
-                String customerEmail = table.findElement(By.xpath("//div[@class='table-responsive']//tbody//tr[" + i + "]//td[3]")).getText();
+//                String customerEmail = table.findElement(By.xpath("//div[@class='table-responsive']//tbody//tr[" + i + "]//td[3]")).getText();
+
+                String rowXpath = "//div[@class='table-responsive']//tbody//tr[" + i + "]";
+                String emailXpath = rowXpath + "//td[3]";
+                String checkboxXpath = rowXpath + "//td[1]//input[@type='checkbox']";
+                String updateButtonXpath = "//i[@class='fa-solid fa-pencil']";
+
+                String customerEmail = driver.findElement(By.xpath(emailXpath)).getText();
 //                System.out.println(customerEmail);
                 if (customerEmail.equals(email)) {
 //                    System.out.println(email);
                     flag = true; // return true;
+                    driver.findElement(By.xpath(checkboxXpath)).click(); // click checkbox
+                    System.out.println("Checkbox clicked.");
+                    Thread.sleep(2000);
+                    driver.findElement(By.xpath(updateButtonXpath)).click(); // delete action
+                    System.out.println("Update button clicked.");
                     break;
                 }
             } catch(StaleElementReferenceException e) {
                 i--;
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
             }
         }
         return flag;
@@ -86,20 +97,44 @@ public class SearchCustomerPage {
 
         for (int i = 1; i <= getNoOfRows(); i++) {
             try {
-                String fullText = table.findElement(By.xpath("//div[@class='table-responsive']//tbody//tr[" + i + "]//td[2]")).getText();
+//                String fullText = table.findElement(By.xpath("//div[@class='table-responsive']//tbody//tr[" + i + "]//td[2]")).getText();
 //                System.out.println("Full text before splitting and trimming: " + fullText); // this will include Enabled
 
+                String rowXpath = "//div[@class='table-responsive']//tbody//tr[" + i + "]";
+                String nameXpath = rowXpath + "//td[2]";
+                String checkboxXpath = rowXpath + "//td[1]//input[@type='checkbox']";
+                String deleteButtonXpath = "//i[@class='fa-regular fa-trash-can']";
+
+                String fullText = driver.findElement(By.xpath(nameXpath)).getText();
                 String[] textAfterSplitting = fullText.split("\n");
                 String onlyName = textAfterSplitting[0].trim();
-//                System.out.println("Customer name after splitting and trimming: " + onlyName);
+                System.out.println("Customer name after splitting and trimming: " + onlyName);
 
                 if (onlyName.equals(name)) {
                     flag = true; // found
-                    break; // exit loop once found the name
+                    driver.findElement(By.xpath(checkboxXpath)).click(); // click checkbox
+                    System.out.println("Checkbox clicked.");
+                    Thread.sleep(2000);
+                    driver.findElement(By.xpath(deleteButtonXpath)).click(); // delete action
+                    System.out.println("Delete button clicked.");
+
+                    try {
+                        Alert al = driver.switchTo().alert();
+                        System.out.println(al.getText());
+                        al.accept();
+                        System.out.println("Alert accepted.");
+                    } catch(Exception e) {
+                        e.getMessage();
+                    }
+
+                    break;
+
                 }
 
             } catch(StaleElementReferenceException e) {
                 i--; // retry the same row
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
             }
         }
         return flag; // not found
